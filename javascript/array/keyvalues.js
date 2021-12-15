@@ -5,5 +5,5 @@ let emp ={
     color:"black",
 }
 
-console.log(object.emp(e));
-console.log(object.keys(product));
+console.log(Object.values(emp));
+console.log(Object.keys(emp));
